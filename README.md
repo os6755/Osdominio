@@ -1,0 +1,2 @@
+# Osdominio
+Scrip termux
