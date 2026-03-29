@@ -6,9 +6,9 @@
 
 ## Instalación
 
-```bash $ git clone https://github.com/SamaelAS/Sdominio```
+```bash $ git clone https://github.com/os6755/Osdominio```
 
-```bash $ cd Sdomin```
+```bash $ cd Osdominio```
 
 ```bash $ pip3 install -r requirements.txt```
 
